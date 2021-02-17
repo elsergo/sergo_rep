@@ -1,1 +1,3 @@
 New file
+---------
+It is new text for commit. I'm teaching DevOps, and git now!
