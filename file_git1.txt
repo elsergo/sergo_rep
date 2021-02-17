@@ -1,4 +1,0 @@
-New file_git1
----------
-It is new text in new file for the commit. I'm teaching DevOps, and git now!
-See you..
